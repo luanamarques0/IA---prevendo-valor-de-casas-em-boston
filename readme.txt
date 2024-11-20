@@ -5,3 +5,5 @@
 3. Instale os requisitos: $ pip install -r requirements.txt
 
 Por fim execute a aplicação: $ python app.py
+
+Acesse o site: https://dataapp-pvdi.streamlit.app
